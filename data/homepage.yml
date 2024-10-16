@@ -1,0 +1,144 @@
+# page title
+head:
+  title: "Adelina Erika - Marketing Specialist"
+  description: "My vision is to create a world where anyone can build a thriving business."
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I'm Adelina..."
+  subtitle: "A Digital Marketing Specialist"
+  description: >
+    Based in Den Haag 🇳🇱, I work with various B2B and B2C companies, dedicated to empowering small and growing businesses. My vision is to create a world where anyone can build a thriving business. <br> With a diverse background as a specialized generalist, I have extensive experience in marketing, including strategy development, digital campaigns, and market research. I apply the 3P's (People, Product, Process) to my work and am passionate about fostering healthy, collaborative teams that drive continuous improvement.
+  image:
+    x: "images/showcase/hero-image.png"
+    _2x: "images/showcase/hero-image.png"
+  imageMobile:
+    x: "images/showcase/hero-image.png"
+
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Let's Connect"
+    URL: "https://www.linkedin.com/in/adelina-erika-baranauskait%C4%97-201079210/"
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: >
+    <p class="lead">
+      I am a marketing specialist by training, curious and energetic, leveraging my skills to solve real-world challenges. Personally, I’m easy-going, sociable, a fast learner, and a natural leader. I do what I love and love what I do, leading by example and working side by side with my teams.
+    </p>
+    <p class="lead">
+      Being deliberately versatile, my profile uniquely blends marketing strategy and project management experience. I am eager to see how marketing innovations can enhance user experiences across various sectors. I am highly motivated, with a strong sense of responsibility towards myself, and my clients or peers. People appreciate my positive, easy-going, can-do attitude.
+    </p>
+    <p class="lead">
+      On the technical front, I am a specialized generalist, constantly bridging different areas to develop a holistic vision of what it takes to create a successful marketing vision: from web and mobile marketing strategies to market analytics and user engagement. This has involved working with a variety of tools and platforms to ensure effective marketing campaigns and product success.
+    </p>
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/adelina-erika-baranauskait%C4%97-201079210/"
+  image:
+    x: "images/showcase/adelina-abstract.png"
+    _2x: "images/showcase/adelina-abstract2x.png"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "Hogeschool Inholland"
+      year: "2022-2026"
+      degree: "Bachelor, International Creative Business"
+
+    - university: "Hogeschool Utrecht"
+      year: "2024"
+      degree: "Minor, Media Psychology"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: >
+   With a background in B2B/B2C marketing, event organization, and market research, I have honed my skills in various project sizes and team dynamics.
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/adelina-erika-baranauskait%C4%97-201079210/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "#"
+
+# Client & Work
+client_and_work:
+  title: "Clients & Works"
+  enable: true
+
+  works:
+    - title: "Radity Finance - UI Kit"
+      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "images/works/radity-finance.jpg"
+        _2x: "images/works/radity-finance@2x.jpg"
+      is_even: true
+  
+# testimonial
+testimonial:
+  enable: false
+  title: "Testimonials"
+  items:
+    - name: "Daniel Jordan"
+      position: "Phonet, CEO"
+      content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
+      image:
+        x: "images/testimonials/daniel-jordan.jpg"
+        _2x: "images/testimonials/daniel-jordan@2x.jpg"
+
+    - name: "Jonathan Peters"
+      position: "Textic, CEO"
+      content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
+      image:
+        x: "images/testimonials/jonathan-peters.jpg"
+        _2x: "images/testimonials/jonathan-peters@2x.jpg"
+
+    - name: "Antonio Willis"
+      position: "Cyberse, CEO"
+      content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
+      image:
+        x: "images/testimonials/antonio-willis.jpg"
+        _2x: "images/testimonials/antonio-willis@2x.jpg"
+
+# contact
+contact:
+  enable: true
+  title: "Contact"
+  form:
+    action: "#"
+    full_name: "Full Name"
+    email: "Email Address"
+    message: "Type Your Message Here"
+  phone:
+    title: "Have a question? I am here to help!"
+    number: ""
+  email:
+    title: "Just fill out the contact form or write me an email to get started making your brand known and recognizeable."
+    email: ''
+  address:
+    title: "Email"
+    address: '<a href="mailto:info@adelinaerika.com">info@adelinaerika.com</a>'
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."

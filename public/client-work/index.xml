@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Client-Works on </title>
+    <link>http://localhost:1313/client-work/</link>
+    <description>Recent content in Client-Works on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Aug 2024 09:53:42 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/client-work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Litpersona</title>
+      <link>http://localhost:1313/client-work/litpersona/</link>
+      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>http://localhost:1313/client-work/litpersona/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Moersleutel</title>
+      <link>http://localhost:1313/client-work/moersleutel/</link>
+      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>http://localhost:1313/client-work/moersleutel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Museum Panorama Mesdag</title>
+      <link>http://localhost:1313/client-work/panorama-mesdag/</link>
+      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>http://localhost:1313/client-work/panorama-mesdag/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NEW L.OAK</title>
+      <link>http://localhost:1313/client-work/newloak/</link>
+      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>http://localhost:1313/client-work/newloak/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Royal Delft Museum</title>
+      <link>http://localhost:1313/client-work/royal-delft-museum/</link>
+      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>http://localhost:1313/client-work/royal-delft-museum/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiences on </title>
+    <link>http://localhost:1313/experience/</link>
+    <description>Recent content in Experiences on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Marketing Manager</title>
+      <link>http://localhost:1313/experience/litpersona-marketing-manager/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/litpersona-marketing-manager/</guid>
+      <description>Driving Growth in B2B and B2C Marketing At Litpersona, I spearheaded B2B and B2C marketing initiatives for a human resource construction company. My role involved crafting strategies to attract leads, effectively connecting both skilled workers and potential customers. Through targeted campaigns and innovative approaches, I successfully supported the company’s growth by bridging the gap between workforce demand and client needs.</description>
+    </item>
+    <item>
+      <title>Product Manager</title>
+      <link>http://localhost:1313/experience/sorbum-product-manager/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/sorbum-product-manager/</guid>
+      <description>Elevating Brands with Precision and Creativity In 2022, I worked as a Product Manager in Shopper Marketing at Sorbum Group in Vilnius, Lithuania, where I was involved in the marketing and advertising of Glo, an electronic tobacco product. The role demanded both precise execution and creative thinking due to the highly regulated nature of the industry. I coordinated street teams, employed mascots, and implemented various innovative strategies to promote the product effectively.</description>
+    </item>
+    <item>
+      <title>Events Organizer &amp; Student Assistant</title>
+      <link>http://localhost:1313/experience/asa-campus-events-organizer/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/asa-campus-events-organizer/</guid>
+      <description>Moving to the Netherlands In 2023, I relocated to the Netherlands to pursue a degree in International Creative Business at Hogeschool Inholland and enhance my skills in event management and marketing.I worked as an Events Organizer and Student Assistant for ASA Campus in The Hague. During this role, I planned and hosted an event for approximately 140 attendees, managing all aspects from marketing to on-the-day coordination. The position required meticulous planning and creative problem-solving to ensure the event&amp;rsquo;s success.</description>
+    </item>
+  </channel>
+</rss>

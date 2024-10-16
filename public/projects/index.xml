@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on </title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Aug 2024 09:53:42 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moersleutel Export Plan</title>
+      <link>http://localhost:1313/projects/moersleutel-export-plan/</link>
+      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>http://localhost:1313/projects/moersleutel-export-plan/</guid>
+      <description>Expanding into the Irish market offers Moersleutel Brewery a strategic opportunity to grow its market presence and increase revenue with premium craft beer offerings. To achieve this goal, we created a well-crafted business plan, operational plan, and marketing strategy tailored to Irish preferences and market dynamics. The objective was to have a successful product launch that would drive revenue growth and enhance brand influence.</description>
+    </item>
+    <item>
+      <title>New L.oak Marketing Strategy Enhancement</title>
+      <link>http://localhost:1313/projects/new-loak/</link>
+      <pubDate>Sat, 24 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>http://localhost:1313/projects/new-loak/</guid>
+      <description>This research aims to enhance New L.oak&amp;rsquo;s marketing strategy for customer acquisition. They face challenges with brand awareness, primarily relying on word-of-mouth marketing. Additionally, due to their product and business model, they lack repeat customers. Moreover, there&amp;rsquo;s a need for a consistent brand identity across social media platforms. Our task is to devise a strategy to engage potential clients effectively, differentiate New L.oak from competitors, elevate their brand reputation, and boost brand awareness while gaining customer insights.</description>
+    </item>
+    <item>
+      <title>Royal Delft Museum Picasso Exhibit Advertisement</title>
+      <link>http://localhost:1313/projects/royal-delft-museum/</link>
+      <pubDate>Fri, 23 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>http://localhost:1313/projects/royal-delft-museum/</guid>
+      <description>This assignment focuses on testing the AV promotional production for the Royal Delft Museum video on the target group in order to find out if it inspires them to attend the upcoming Picasso ceramics exhibition.</description>
+    </item>
+  </channel>
+</rss>

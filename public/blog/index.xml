@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on </title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Jun 2024 14:38:33 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moersleutel Export Plans Case Study</title>
+      <link>http://localhost:1313/blog/moersleutel-case-study/</link>
+      <pubDate>Fri, 21 Jun 2024 14:38:33 +0200</pubDate>
+      <guid>http://localhost:1313/blog/moersleutel-case-study/</guid>
+      <description>Expanding into the Irish market offers Moersleutel Brewery a strategic opportunity to grow its market presence and increase revenue with premium craft beer offerings. To achieve this goal, we need a well-crafted business plan, operational plan, and marketing strategy tailored to Irish preferences and market dynamics. The objective is to have a successful product launch that will drive revenue growth and enhance brand influence.</description>
+    </item>
+    <item>
+      <title>New L.oak Marketing Strategy Enhancement</title>
+      <link>http://localhost:1313/blog/new-loak-case-study/</link>
+      <pubDate>Fri, 21 Jun 2024 14:38:33 +0200</pubDate>
+      <guid>http://localhost:1313/blog/new-loak-case-study/</guid>
+      <description>New L.oaks website is set to introduce an exciting new feature - an interactive visualizer. This tool is designed to convert website visitors into actual customers by allowing them to personalise their kitchen design. Through this engagement, customers will spend more time with the brand. Additionally, by providing their email to recieve results, they will also sign up for a newsletter that will keep them in touch with the brand and foster a closer relationship with a customer.</description>
+    </item>
+    <item>
+      <title>Royal Delft Museum Picasso Exhibit Advertisement</title>
+      <link>http://localhost:1313/blog/royal-delft-museum-case-study/</link>
+      <pubDate>Fri, 21 Jun 2024 14:38:33 +0200</pubDate>
+      <guid>http://localhost:1313/blog/royal-delft-museum-case-study/</guid>
+      <description>This assignment focuses on testing the AV promotional production for the Royal Delft Museum video on the target group in order to find out if it inspires them to attend the upcoming Picasso ceramics exhibition.</description>
+    </item>
+  </channel>
+</rss>
