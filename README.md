@@ -1,5 +1,6 @@
-## Adelina Erika - A Static Portfolio Website Powered by [Hugo](https://gohugo.io/)
-<img width="1552" alt="image" src="https://github.com/user-attachments/assets/99930c26-0d1e-4389-9eab-a5945c52cb0c">
+## Vladimiras Malyskinas - A Static Portfolio Website Powered by [Hugo](https://gohugo.io/)
+<img width="1552" alt="image" src="https://github.com/user-attachments/assets/229374f5-4d3e-4013-9dee-7ad9d6b8d649">
+
 
 ### Technologies & Theme:
 
@@ -11,4 +12,4 @@ This portfolio is hosted by Cloudflare Pages with a simple CI/CD pipeline.
 
 ---
 
-**Visit her site** at **[adelinaerika.com](https://adelinaerika.com/)** to explore her projects, experiences, and blog—whether you're looking for collaboration opportunities or simply to get inspired.
+**Visit my site** at **[vladimiras.com](https://vladimiras.com/)** to explore my projects, experiences — whether you're looking for collaboration opportunities or simply to get inspired.
