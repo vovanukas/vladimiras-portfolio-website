@@ -1,91 +1,86 @@
 # page title
 head:
-  title: "Adelina Erika - Marketing Specialist"
-  description: "My vision is to create a world where anyone can build a thriving business."
+  title: "Vladimiras Malyskinas | Portfolio"
+  description: "Combining Acoustics & Programming"
 # showcase
 showcase:
   enable: true
-  title: "Hello, I'm Adelina..."
-  subtitle: "A Digital Marketing Specialist"
+  title: "Hello, I'm Vladimiras..."
+  subtitle: "I Combine Audio & Programming"
   description: >
-    Based in Den Haag 🇳🇱, I work with various B2B and B2C companies, dedicated to empowering small and growing businesses. My vision is to create a world where anyone can build a thriving business. <br> With a diverse background as a specialized generalist, I have extensive experience in marketing, including strategy development, digital campaigns, and market research. I apply the 3P's (People, Product, Process) to my work and am passionate about fostering healthy, collaborative teams that drive continuous improvement.
+    Based in Den Haag 🇳🇱, I work at <a target='_blank' href='https://www.amberscript.com/en/'>Amberscript</a>, a SaaS company, whose vision is <em>to make audio accessible</em>. <br>With a diverse background as a specialized generalist, I have a wide range of experiences in software development: From developing customer facing solutions, to internal business tools development. I eagerly take initiative to find solutions and am passionate about fostering healthy, collaborative teams that drive continuous improvement.
   image:
-    x: "images/showcase/hero-image.png"
-    _2x: "images/showcase/hero-image.png"
+    x: "images/showcase/hero-image2.png"
+    _2x: "images/showcase/hero-image2.png"
   imageMobile:
     x: "images/showcase/hero-image.png"
 
   button:
     icon: "icon-linkedin-fill"
     btnText: "Let's Connect"
-    URL: "https://www.linkedin.com/in/adelina-erika-baranauskait%C4%97-201079210/"
+    URL: "https://www.linkedin.com/in/vladimirasmal/"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/vladimirasmal/"
+
+    - icon: "github"
+      URL: "https://github.com/vovanukas"
 
 # about
 about:
   enable: true
   title: "Who am I?"
-  content: >
+  content: > 
     <p class="lead">
-      I am a marketing specialist by training, curious and energetic, leveraging my skills to solve real-world challenges. Personally, I’m easy-going, sociable, a fast learner, and a natural leader. I do what I love and love what I do, leading by example and working side by side with my teams.
+    I am an entrepreneurial engineer by formation, curious and energetic - that applies technology to solve real-world problems. Personally, I'm a very easy going, sociable and a fast-learner. I love taking ownership of my work and simplifying processes through automation.
     </p>
     <p class="lead">
-      Being deliberately versatile, my profile uniquely blends marketing strategy and project management experience. I am eager to see how marketing innovations can enhance user experiences across various sectors. I am highly motivated, with a strong sense of responsibility towards myself, and my clients or peers. People appreciate my positive, easy-going, can-do attitude.
+    I am a deliberate jack of all trades. Being a fast-learner, I am always eager to take on new responsibilities and deliver new and exciting projects. I am not afraid of research and finding ways to improve myself both professionally and personally. I have a strong motivation and sense of responsibility towards myself and my team. People like my positive and easy going, can-do attitude.
     </p>
-    <p class="lead">
-      On the technical front, I am a specialized generalist, constantly bridging different areas to develop a holistic vision of what it takes to create a successful marketing vision: from web and mobile marketing strategies to market analytics and user engagement. This has involved working with a variety of tools and platforms to ensure effective marketing campaigns and product success.
-    </p>
+    <p class="lead">    
+    On the technical side, I’m a <em>specialized generalist</em>, always working between different areas and aiming to develop a holistic vision on what is involved into creating a successful tech product.
+    </p>'
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
-    URL: "https://www.linkedin.com/in/adelina-erika-baranauskait%C4%97-201079210/"
+    URL: "https://www.linkedin.com/in/vladimirasmal/"
   image:
-    x: "images/showcase/adelina-abstract.png"
-    _2x: "images/showcase/adelina-abstract2x.png"
+    x: "images/showcase/vladimiras-malyskinas.png"
+    _2x: "images/showcase/vladimiras-malyskinas.png"
 
 # education
 education:
   enable: true
   title: "Education"
   items:
-    - university: "Hogeschool Inholland"
-      year: "2022-2026"
-      degree: "Bachelor, International Creative Business"
+    - university: "Coventry University"
+      year: "2020-2024"
+      degree: "BSc, Music Technology / Audio Programming (Hons.)"
 
-    - university: "Hogeschool Utrecht"
+    - university: "London School of Economics"
       year: "2024"
-      degree: "Minor, Media Psychology"
+      degree: "MBA Essentials"
 
 # experience
 experience:
   enable: true
   title: "Experience"
   description: >
-   With a background in B2B/B2C marketing, event organization, and market research, I have honed my skills in various project sizes and team dynamics.
+   From starting my own programming academy to working in a proftable SaaS startup, I have honed my skills in various project sizes and team dynamics.
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
-    URL: "https://www.linkedin.com/in/adelina-erika-baranauskait%C4%97-201079210/"
-  button2:
-    icon: "icon-profile-fill"
-    btnText: "Download My Resume"
-    URL: "#"
+    URL: "https://www.linkedin.com/in/vladimirasmal/"
+  # button2:
+  #   icon: "icon-profile-fill"
+  #   btnText: "Download My Resume"
+  #   URL: "#"
 
 # Client & Work
 client_and_work:
-  title: "Clients & Works"
+  title: "Projects"
   enable: true
-
-  works:
-    - title: "Radity Finance - UI Kit"
-      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "#"
-      image:
-        x: "images/works/radity-finance.jpg"
-        _2x: "images/works/radity-finance@2x.jpg"
-      is_even: true
   
 # testimonial
 testimonial:
@@ -115,7 +110,7 @@ testimonial:
 
 # contact
 contact:
-  enable: true
+  enable: false
   title: "Contact"
   form:
     action: "#"

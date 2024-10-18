@@ -6,28 +6,35 @@
     <description>Recent content in Experiences on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/experience/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Marketing Manager</title>
-      <link>http://localhost:1313/experience/litpersona-marketing-manager/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/experience/litpersona-marketing-manager/</guid>
-      <description>Driving Growth in B2B and B2C Marketing At Litpersona, I spearheaded B2B and B2C marketing initiatives for a human resource construction company. My role involved crafting strategies to attract leads, effectively connecting both skilled workers and potential customers. Through targeted campaigns and innovative approaches, I successfully supported the company’s growth by bridging the gap between workforce demand and client needs.</description>
+      <title>Software Development Intern</title>
+      <link>http://localhost:1313/experience/amberscript-software-dev-intern/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/amberscript-software-dev-intern/</guid>
+      <description>Interning With a Successful SaaS Start Up At Amberscript, I took ownership over many projects to make everyday business operations more efficient.&#xA;Using automations tools such as UI Bakery, JavaScript and Google Apps Script I have successfully crafted systems to ensure speedy freelancer management and payout processes for the finance and operations team.&#xA;Using webhooks, UI Bakery Automations and Slack + other various APIs, I have created a helper Slack bot, which allowed the use of commands to quickly acomplish everyday actions for all employees.</description>
     </item>
     <item>
-      <title>Product Manager</title>
-      <link>http://localhost:1313/experience/sorbum-product-manager/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/experience/sorbum-product-manager/</guid>
-      <description>Elevating Brands with Precision and Creativity In 2022, I worked as a Product Manager in Shopper Marketing at Sorbum Group in Vilnius, Lithuania, where I was involved in the marketing and advertising of Glo, an electronic tobacco product. The role demanded both precise execution and creative thinking due to the highly regulated nature of the industry. I coordinated street teams, employed mascots, and implemented various innovative strategies to promote the product effectively.</description>
+      <title>Audio Programming and Sound Design Intern</title>
+      <link>http://localhost:1313/experience/auris-media-audio-programming-intern/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/auris-media-audio-programming-intern/</guid>
+      <description>Programming Audio Into Games During my internship year at Coventry University I have worked with an audio post-production boutique, Auris Media.&#xA;During my time with them I have created high-quality sound assets using Nuendo and integrated into Unreal Engine 5 through Wwise middleware, enhancing the immersive qualities of interactive media projects.&#xA;Showcased my strong skills in audio programming by developing, optimizing, and debugging efficient audio systems.&#xA;Collaborated with multidisciplinary teams, providing creative solutions for audio-related project needs.</description>
     </item>
     <item>
-      <title>Events Organizer &amp; Student Assistant</title>
-      <link>http://localhost:1313/experience/asa-campus-events-organizer/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/experience/asa-campus-events-organizer/</guid>
-      <description>Moving to the Netherlands In 2023, I relocated to the Netherlands to pursue a degree in International Creative Business at Hogeschool Inholland and enhance my skills in event management and marketing.I worked as an Events Organizer and Student Assistant for ASA Campus in The Hague. During this role, I planned and hosted an event for approximately 140 attendees, managing all aspects from marketing to on-the-day coordination. The position required meticulous planning and creative problem-solving to ensure the event&amp;rsquo;s success.</description>
+      <title>Owner</title>
+      <link>http://localhost:1313/experience/codiblox-owner-copy/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/codiblox-owner-copy/</guid>
+      <description>Launching My Own Programming School After being laid off, I have bootstrapped and managed an online tutoring business, teaching Python to young children online.&#xA;To effectively lead online lessons I have developed a robust videoconferencing architecture to deliver online lessons, I explored and evaluated platforms such as Jitsi, Google Meet, Zoom, Microsoft Teams and BigBlueButton.&#xA;In pursuit of expanding my clientele I have conducted thorough market research and implemented A/B testing to my ads and website, maximizing user engagement and CPA.</description>
+    </item>
+    <item>
+      <title>Coding Instructor</title>
+      <link>http://localhost:1313/experience/codetoday-coding-instructor/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/codetoday-coding-instructor/</guid>
+      <description>Teaching Others the Joy of Programming During my time at Coventry University, I was also working as a Coding Instructor for a London-based tutoring company, Codetoday.&#xA;During my lessons I have effectively led students in coding, and exhibited exceptional communication skills, conveying complex programming concepts in a simple and engaging manner.&#xA;To make programming accessible and enjoyable for students of all ages, I adapted my teaching style. Maintained an approachable and friendly demeanor while also commanding respect when necessary.</description>
     </item>
   </channel>
 </rss>

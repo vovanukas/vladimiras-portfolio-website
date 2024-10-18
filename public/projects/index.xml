@@ -9,25 +9,25 @@
     <lastBuildDate>Sun, 25 Aug 2024 09:53:42 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Moersleutel Export Plan</title>
-      <link>http://localhost:1313/projects/moersleutel-export-plan/</link>
+      <title>SketchUp Ray Tracing Plugin</title>
+      <link>http://localhost:1313/projects/sketchup-first-reflections-plugin/</link>
       <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>http://localhost:1313/projects/moersleutel-export-plan/</guid>
-      <description>Expanding into the Irish market offers Moersleutel Brewery a strategic opportunity to grow its market presence and increase revenue with premium craft beer offerings. To achieve this goal, we created a well-crafted business plan, operational plan, and marketing strategy tailored to Irish preferences and market dynamics. The objective was to have a successful product launch that would drive revenue growth and enhance brand influence.</description>
+      <guid>http://localhost:1313/projects/sketchup-first-reflections-plugin/</guid>
+      <description>Technologies: Ruby, RubyMine IDE, SketchUp SDK, GitHub&#xA;SketchUp Ray Tracing Plugin that simulates ray reflections in a 3D environment. The plugin allows users to visualize sound reflections by casting rays from a selected surface within SketchUp models. It is designed to assist in architectural acoustic design by providing a quick and easy way to simulate sound-wave behavior in various environments.</description>
     </item>
     <item>
-      <title>New L.oak Marketing Strategy Enhancement</title>
-      <link>http://localhost:1313/projects/new-loak/</link>
+      <title>Audio Plug-In Suite</title>
+      <link>http://localhost:1313/projects/audio-plugin-suite/</link>
       <pubDate>Sat, 24 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>http://localhost:1313/projects/new-loak/</guid>
-      <description>This research aims to enhance New L.oak&amp;rsquo;s marketing strategy for customer acquisition. They face challenges with brand awareness, primarily relying on word-of-mouth marketing. Additionally, due to their product and business model, they lack repeat customers. Moreover, there&amp;rsquo;s a need for a consistent brand identity across social media platforms. Our task is to devise a strategy to engage potential clients effectively, differentiate New L.oak from competitors, elevate their brand reputation, and boost brand awareness while gaining customer insights.</description>
+      <guid>http://localhost:1313/projects/audio-plugin-suite/</guid>
+      <description>This is a set of 3 plug-ins, which can be used in Digital Audio Workstations to process audio. Built with JUCE, C++ and Max MSP.</description>
     </item>
     <item>
-      <title>Royal Delft Museum Picasso Exhibit Advertisement</title>
-      <link>http://localhost:1313/projects/royal-delft-museum/</link>
+      <title>Unity Samurai Village Game</title>
+      <link>http://localhost:1313/projects/samurai-village-game/</link>
       <pubDate>Fri, 23 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>http://localhost:1313/projects/royal-delft-museum/</guid>
-      <description>This assignment focuses on testing the AV promotional production for the Royal Delft Museum video on the target group in order to find out if it inspires them to attend the upcoming Picasso ceramics exhibition.</description>
+      <guid>http://localhost:1313/projects/samurai-village-game/</guid>
+      <description>Technologies: C#, Unity, GitLab, FMOD, Reaper&#xA;This project is an immersive 3rd-person adventure game focused on showcasing my game audio implementation and C# programming skills. It features a menu system, dynamic water audio system (with depth detection), foliage audio, footsteps audio, dialogue, music implementation, quest music variation.</description>
     </item>
   </channel>
 </rss>

@@ -6,105 +6,56 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Aug 2024 09:53:42 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Marketing Manager</title>
-      <link>http://localhost:1313/experience/litpersona-marketing-manager/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/experience/litpersona-marketing-manager/</guid>
-      <description>Driving Growth in B2B and B2C Marketing At Litpersona, I spearheaded B2B and B2C marketing initiatives for a human resource construction company. My role involved crafting strategies to attract leads, effectively connecting both skilled workers and potential customers. Through targeted campaigns and innovative approaches, I successfully supported the company’s growth by bridging the gap between workforce demand and client needs.</description>
+      <title>Software Development Intern</title>
+      <link>http://localhost:1313/experience/amberscript-software-dev-intern/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/amberscript-software-dev-intern/</guid>
+      <description>Interning With a Successful SaaS Start Up At Amberscript, I took ownership over many projects to make everyday business operations more efficient.&#xA;Using automations tools such as UI Bakery, JavaScript and Google Apps Script I have successfully crafted systems to ensure speedy freelancer management and payout processes for the finance and operations team.&#xA;Using webhooks, UI Bakery Automations and Slack + other various APIs, I have created a helper Slack bot, which allowed the use of commands to quickly acomplish everyday actions for all employees.</description>
     </item>
     <item>
-      <title>Product Manager</title>
-      <link>http://localhost:1313/experience/sorbum-product-manager/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/experience/sorbum-product-manager/</guid>
-      <description>Elevating Brands with Precision and Creativity In 2022, I worked as a Product Manager in Shopper Marketing at Sorbum Group in Vilnius, Lithuania, where I was involved in the marketing and advertising of Glo, an electronic tobacco product. The role demanded both precise execution and creative thinking due to the highly regulated nature of the industry. I coordinated street teams, employed mascots, and implemented various innovative strategies to promote the product effectively.</description>
+      <title>Audio Programming and Sound Design Intern</title>
+      <link>http://localhost:1313/experience/auris-media-audio-programming-intern/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/auris-media-audio-programming-intern/</guid>
+      <description>Programming Audio Into Games During my internship year at Coventry University I have worked with an audio post-production boutique, Auris Media.&#xA;During my time with them I have created high-quality sound assets using Nuendo and integrated into Unreal Engine 5 through Wwise middleware, enhancing the immersive qualities of interactive media projects.&#xA;Showcased my strong skills in audio programming by developing, optimizing, and debugging efficient audio systems.&#xA;Collaborated with multidisciplinary teams, providing creative solutions for audio-related project needs.</description>
     </item>
     <item>
-      <title>Events Organizer &amp; Student Assistant</title>
-      <link>http://localhost:1313/experience/asa-campus-events-organizer/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/experience/asa-campus-events-organizer/</guid>
-      <description>Moving to the Netherlands In 2023, I relocated to the Netherlands to pursue a degree in International Creative Business at Hogeschool Inholland and enhance my skills in event management and marketing.I worked as an Events Organizer and Student Assistant for ASA Campus in The Hague. During this role, I planned and hosted an event for approximately 140 attendees, managing all aspects from marketing to on-the-day coordination. The position required meticulous planning and creative problem-solving to ensure the event&amp;rsquo;s success.</description>
+      <title>Owner</title>
+      <link>http://localhost:1313/experience/codiblox-owner-copy/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/codiblox-owner-copy/</guid>
+      <description>Launching My Own Programming School After being laid off, I have bootstrapped and managed an online tutoring business, teaching Python to young children online.&#xA;To effectively lead online lessons I have developed a robust videoconferencing architecture to deliver online lessons, I explored and evaluated platforms such as Jitsi, Google Meet, Zoom, Microsoft Teams and BigBlueButton.&#xA;In pursuit of expanding my clientele I have conducted thorough market research and implemented A/B testing to my ads and website, maximizing user engagement and CPA.</description>
     </item>
     <item>
-      <title>Litpersona</title>
-      <link>http://localhost:1313/client-work/litpersona/</link>
+      <title>Coding Instructor</title>
+      <link>http://localhost:1313/experience/codetoday-coding-instructor/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/codetoday-coding-instructor/</guid>
+      <description>Teaching Others the Joy of Programming During my time at Coventry University, I was also working as a Coding Instructor for a London-based tutoring company, Codetoday.&#xA;During my lessons I have effectively led students in coding, and exhibited exceptional communication skills, conveying complex programming concepts in a simple and engaging manner.&#xA;To make programming accessible and enjoyable for students of all ages, I adapted my teaching style. Maintained an approachable and friendly demeanor while also commanding respect when necessary.</description>
+    </item>
+    <item>
+      <title>SketchUp Ray Tracing Plugin</title>
+      <link>http://localhost:1313/projects/sketchup-first-reflections-plugin/</link>
       <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>http://localhost:1313/client-work/litpersona/</guid>
-      <description></description>
+      <guid>http://localhost:1313/projects/sketchup-first-reflections-plugin/</guid>
+      <description>Technologies: Ruby, RubyMine IDE, SketchUp SDK, GitHub&#xA;SketchUp Ray Tracing Plugin that simulates ray reflections in a 3D environment. The plugin allows users to visualize sound reflections by casting rays from a selected surface within SketchUp models. It is designed to assist in architectural acoustic design by providing a quick and easy way to simulate sound-wave behavior in various environments.</description>
     </item>
     <item>
-      <title>Moersleutel</title>
-      <link>http://localhost:1313/client-work/moersleutel/</link>
-      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>http://localhost:1313/client-work/moersleutel/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Moersleutel Export Plan</title>
-      <link>http://localhost:1313/projects/moersleutel-export-plan/</link>
-      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>http://localhost:1313/projects/moersleutel-export-plan/</guid>
-      <description>Expanding into the Irish market offers Moersleutel Brewery a strategic opportunity to grow its market presence and increase revenue with premium craft beer offerings. To achieve this goal, we created a well-crafted business plan, operational plan, and marketing strategy tailored to Irish preferences and market dynamics. The objective was to have a successful product launch that would drive revenue growth and enhance brand influence.</description>
-    </item>
-    <item>
-      <title>Museum Panorama Mesdag</title>
-      <link>http://localhost:1313/client-work/panorama-mesdag/</link>
-      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>http://localhost:1313/client-work/panorama-mesdag/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>NEW L.OAK</title>
-      <link>http://localhost:1313/client-work/newloak/</link>
-      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>http://localhost:1313/client-work/newloak/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Royal Delft Museum</title>
-      <link>http://localhost:1313/client-work/royal-delft-museum/</link>
-      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>http://localhost:1313/client-work/royal-delft-museum/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>New L.oak Marketing Strategy Enhancement</title>
-      <link>http://localhost:1313/projects/new-loak/</link>
+      <title>Audio Plug-In Suite</title>
+      <link>http://localhost:1313/projects/audio-plugin-suite/</link>
       <pubDate>Sat, 24 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>http://localhost:1313/projects/new-loak/</guid>
-      <description>This research aims to enhance New L.oak&amp;rsquo;s marketing strategy for customer acquisition. They face challenges with brand awareness, primarily relying on word-of-mouth marketing. Additionally, due to their product and business model, they lack repeat customers. Moreover, there&amp;rsquo;s a need for a consistent brand identity across social media platforms. Our task is to devise a strategy to engage potential clients effectively, differentiate New L.oak from competitors, elevate their brand reputation, and boost brand awareness while gaining customer insights.</description>
+      <guid>http://localhost:1313/projects/audio-plugin-suite/</guid>
+      <description>This is a set of 3 plug-ins, which can be used in Digital Audio Workstations to process audio. Built with JUCE, C++ and Max MSP.</description>
     </item>
     <item>
-      <title>Royal Delft Museum Picasso Exhibit Advertisement</title>
-      <link>http://localhost:1313/projects/royal-delft-museum/</link>
+      <title>Unity Samurai Village Game</title>
+      <link>http://localhost:1313/projects/samurai-village-game/</link>
       <pubDate>Fri, 23 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>http://localhost:1313/projects/royal-delft-museum/</guid>
-      <description>This assignment focuses on testing the AV promotional production for the Royal Delft Museum video on the target group in order to find out if it inspires them to attend the upcoming Picasso ceramics exhibition.</description>
-    </item>
-    <item>
-      <title>Moersleutel Export Plans Case Study</title>
-      <link>http://localhost:1313/blog/moersleutel-case-study/</link>
-      <pubDate>Fri, 21 Jun 2024 14:38:33 +0200</pubDate>
-      <guid>http://localhost:1313/blog/moersleutel-case-study/</guid>
-      <description>Expanding into the Irish market offers Moersleutel Brewery a strategic opportunity to grow its market presence and increase revenue with premium craft beer offerings. To achieve this goal, we need a well-crafted business plan, operational plan, and marketing strategy tailored to Irish preferences and market dynamics. The objective is to have a successful product launch that will drive revenue growth and enhance brand influence.</description>
-    </item>
-    <item>
-      <title>New L.oak Marketing Strategy Enhancement</title>
-      <link>http://localhost:1313/blog/new-loak-case-study/</link>
-      <pubDate>Fri, 21 Jun 2024 14:38:33 +0200</pubDate>
-      <guid>http://localhost:1313/blog/new-loak-case-study/</guid>
-      <description>New L.oaks website is set to introduce an exciting new feature - an interactive visualizer. This tool is designed to convert website visitors into actual customers by allowing them to personalise their kitchen design. Through this engagement, customers will spend more time with the brand. Additionally, by providing their email to recieve results, they will also sign up for a newsletter that will keep them in touch with the brand and foster a closer relationship with a customer.</description>
-    </item>
-    <item>
-      <title>Royal Delft Museum Picasso Exhibit Advertisement</title>
-      <link>http://localhost:1313/blog/royal-delft-museum-case-study/</link>
-      <pubDate>Fri, 21 Jun 2024 14:38:33 +0200</pubDate>
-      <guid>http://localhost:1313/blog/royal-delft-museum-case-study/</guid>
-      <description>This assignment focuses on testing the AV promotional production for the Royal Delft Museum video on the target group in order to find out if it inspires them to attend the upcoming Picasso ceramics exhibition.</description>
+      <guid>http://localhost:1313/projects/samurai-village-game/</guid>
+      <description>Technologies: C#, Unity, GitLab, FMOD, Reaper&#xA;This project is an immersive 3rd-person adventure game focused on showcasing my game audio implementation and C# programming skills. It features a menu system, dynamic water audio system (with depth detection), foliage audio, footsteps audio, dialogue, music implementation, quest music variation.</description>
     </item>
   </channel>
 </rss>

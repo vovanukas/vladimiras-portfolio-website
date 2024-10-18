@@ -1,4 +1,4 @@
-baseURL = "https://adelinaerika.com/"
+baseURL = "https://vladimiras.com/"
 languageCode = "en-us"
 theme = "adritian-free-hugo-theme"
 
@@ -31,24 +31,24 @@ theme = "adritian-free-hugo-theme"
   weight = 2
 
   [[menu.header]]
-  name = "Portfolio"
-  URL = "#portfolio"
+  name = "Experience"
+  URL = "#experience"
   weight = 3
 
+  [[menu.header]]
+  name = "Portfolio"
+  URL = "#portfolio"
+  weight = 4
+
 #  [[menu.header]]
-#  name = "Experience"
-#  URL = "#experience"
-#  weight = 4
+#  name = "Blog"
+#  URL = "/blog"
+#  weight = 5
 
-  [[menu.header]]
-  name = "Blog"
-  URL = "/blog"
-  weight = 5
-
-  [[menu.header]]
-  name = "Contact"
-  URL = "#contact"
-  weight = 6
+#  [[menu.header]]
+#  name = "Contact"
+#  URL = "#contact"
+#  weight = 6
 
   [[menu.footer]]
   name = "About"
@@ -61,10 +61,14 @@ theme = "adritian-free-hugo-theme"
   weight = 3
 
   [[menu.footer]]
-  name = "Contact"
-  URL = "#contact"
+  name = "LinkedIn"
+  URL = "https://www.linkedin.com/in/vladimirasmal/"
   weight = 4
 
+  [[menu.footer]]
+  name = "GitHub"
+  URL = "https://github.com/vovanukas"
+  weight = 5
 
 [params]
 
@@ -80,11 +84,11 @@ theme = "adritian-free-hugo-theme"
       enabled = false
 
   [params.logo]
-    text1 = "Adelina"
-    text2 = "Erika"
+    text1 = "Vladimiras"
+    text2 = "Malyskinas"
 
   [params.footer]
-      copyright = "Made with ♡ by AEB"
+      copyright = "Made with ♡ by Vladimiras"
       [params.footer.radity_logo]
         x = "img/general/design-and-code-radity.png"
         _2x = "img/general/design-and-code-radity@2x.png"
